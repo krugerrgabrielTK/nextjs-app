@@ -1,11 +1,17 @@
 import Head from "next/head";
+
+import { Container } from "../styles/elements";
+
 export default function Home() {
   return (
     <>
       <Head>
         <title> Homepage </title>
       </Head>
-      <h1>NextJS Template</h1>
+
+      <Container>
+        <h1>NextJS Template</h1>
+      </Container>
     </>
   );
 }
