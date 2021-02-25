@@ -5,7 +5,7 @@ export default function Home() {
       <Head>
         <title> Homepage </title>
       </Head>
-      <h1> Krüger NextJS Template</h1>
+      <h1>NextJS Template</h1>
     </>
   );
 }
