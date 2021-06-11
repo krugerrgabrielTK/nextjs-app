@@ -11,6 +11,7 @@
 # next.js
 /.next/
 /out/
+/tdkcorretora-server/
 
 # production
 /build
@@ -32,3 +33,4 @@ yarn-error.log*
 
 # vercel
 .vercel
+src/pages/api/test.js
